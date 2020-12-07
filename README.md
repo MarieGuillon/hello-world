@@ -1,4 +1,4 @@
 # hello-world
 Tutorial
 
-Marie, MALTT Student
+Marie, MALTT Student (University of Geneva)
